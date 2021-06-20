@@ -40,7 +40,5 @@ class OpenCommercial {
     {
     	System.out.println(firstFiveLines[i]);
     }
-    
-
   }
 }
