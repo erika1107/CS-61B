@@ -1,5 +1,5 @@
 
-public class DrawTriangle {
+public class Triangle {
 	public static void main(String [] args) {
 		int row = 1;
 		int Size =5;
