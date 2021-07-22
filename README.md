@@ -1,3 +1,3 @@
-# CS-61B   2014
+# CS-61B   2018
 
-https://people.eecs.berkeley.edu/~jrs/61b/
+https://sp18.datastructur.es/
